@@ -4,6 +4,7 @@ gem 'sqlite3'
 
 gem 'rails', '4.1.8'
 gem 'pg'
+gem 'bootstrap-sass'
 
 group :development, :test do
 gem 'rspec-rails'
